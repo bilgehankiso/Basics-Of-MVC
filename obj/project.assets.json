@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bilgehan/Documents/Projects/btk-akademi-aspnet-core-mvc-egitimi/Basics/Basics.csproj",
-      "projectName": "Basics",
-      "projectPath": "/Users/bilgehan/Documents/Projects/btk-akademi-aspnet-core-mvc-egitimi/Basics/Basics.csproj",
+      "projectUniqueName": "/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/mvctrainings.csproj",
+      "projectName": "mvctrainings",
+      "projectPath": "/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/mvctrainings.csproj",
       "packagesPath": "/Users/bilgehan/.nuget/packages/",
-      "outputPath": "/Users/bilgehan/Documents/Projects/btk-akademi-aspnet-core-mvc-egitimi/Basics/obj/",
+      "outputPath": "/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bilgehan/.nuget/NuGet/NuGet.Config"

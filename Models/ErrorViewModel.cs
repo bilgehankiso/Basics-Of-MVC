@@ -1,4 +1,4 @@
-namespace Basics.Models;
+namespace mvctrainings.Models;
 
 public class ErrorViewModel
 {

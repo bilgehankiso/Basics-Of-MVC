@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQmljdWXw61y8zoomP0w0okT80mrYfJda7NIf5DgxzNtIvBV+NZn4Lq8VaE6YcSUZL4lbZsLa3BC+WLEKE8q+Q==",
+  "dgSpecHash": "ebZy0GZdnl0hxNcc2k+MajLC9eslmB6oCrIlS1BpV7SyByCmy/3u6I9+snNVqk+mY0RJsKANstKV+daBpdKxoQ==",
   "success": true,
-  "projectFilePath": "/Users/bilgehan/Documents/Projects/btk-akademi-aspnet-core-mvc-egitimi/Basics/Basics.csproj",
+  "projectFilePath": "/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/mvctrainings.csproj",
   "expectedPackageFiles": [
     "/Users/bilgehan/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
     "/Users/bilgehan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",

@@ -1,0 +1,7 @@
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/mvctrainings
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/appsettings.Development.json
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/appsettings.json
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/mvctrainings.dll
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/mvctrainings.deps.json
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/mvctrainings.runtimeconfig.json
+/Users/bilgehan/Documents/Projects/MVC Trainings/mvctrainings/out/mvctrainings.pdb
